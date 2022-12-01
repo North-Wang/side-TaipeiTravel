@@ -1,0 +1,12 @@
+header{    
+    width: 100vw;
+    height: 100px;
+    color:$white;
+    background-color: $black;
+    display: flex;
+    justify-content: space-between;
+    position: relative;    
+    a{
+        color: $white;
+    }    
+}
